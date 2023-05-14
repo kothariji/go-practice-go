@@ -1,12 +1,10 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/kothariji/go-practice-go/basics"
+	"github.com/kothariji/go-practice-go/upraisedisup"
 )
 
 func main() {
-	fmt.Println("Hello")
-	basics.Add()
+
+	upraisedisup.CheckUpraised()
 }
