@@ -8,7 +8,7 @@ import (
 func CheckUpraised() {
 	links := []string{
 		"https://www.upraised.co/",
-		"https://www.upraised.co/app",
+		"https://www.upraised.co/app/",
 		"https://www.upraised.co/blog/",
 		"https://hire.upraised.co/",
 	}
